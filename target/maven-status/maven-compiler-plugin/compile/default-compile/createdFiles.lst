@@ -1,0 +1,6 @@
+com\company\IndexServlet$IndexThread.class
+com\company\IndexServlet.class
+com\company\CharacterSetFilter.class
+com\company\Indexer.class
+com\company\FinderServlet.class
+com\company\Finder.class
